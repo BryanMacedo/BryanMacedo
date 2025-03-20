@@ -59,18 +59,8 @@ align="center"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
-<br/>
-<br/>
-
 ### 📊 Estatísticas
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    " 
-    src="https://github-readme-stats.vercel.app/api?username=bryanmacedo&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
