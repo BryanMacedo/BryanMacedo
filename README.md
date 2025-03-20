@@ -75,7 +75,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmacedo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
